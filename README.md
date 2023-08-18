@@ -7,22 +7,21 @@ The thesis is different from projects you may have done in your studies previous
 
 Most importantly you are ultimately trying to close a gap in knowledge, this can be a very small gap.
 
+Firstly, we know if you have made it through to Thesis in our Architectural Engineering Programme at DTU Construct you are a great student, who wants to mkae a contribution to the future probably by solving some problem wiht some ingenius engineering approach. You may therefore think that the aim of the thesis is to document what you ‘did’ in a chronological report with conclusions. This may also be a form that you are familiar with from other assignments. 
 
-Introduction
-Identification of an important problem
+*That is not an MSc thesis.*
 
-Background
-Identification of the previous approaches to address this problem
-It is good to include their approach to how thet 
-Summary of the gaps in knowledge in the previous approaches.
+A strictly chronological perspective on what you did is not the most efficient way to explain the study, its aims, how it builds on previous work and whether it makes a contribution to the existing body of knowledge. To do this we have to bend time just a little bit, lets have a look below at how we do this.
 
-Firstly, we know you are all very good students and might think that the aim of the thesis is to document what you ‘did’ therefore a chronological report with conclusions makes most sense. This may be a form that you are familiar with from other assignments. 
-However, a strictly chronological perspective on what you did, is not the most efficient way to explain the study, its aims, how it builds on previous work and whether it makes a contribution to the existing body of knowledge. To do this we have to bend time just a little bit, lets have a look below at how we do this.
 Firstly, I have a slightly different approach from the standard scientific / engineering approach, which emphasises the methodology of the research more than we might normally do. We may still use a standard engineering / scientific methodology but this way we are open to trying new approaches – this may in itself make a contribution.
 Writing the final report
+
 Most students at DTU use overleaf, but you can use word if you prefer.
+
 The final date for the report submission date… 
-Safety net
+
+## Safety net
+
 The idea is to safety net the thesis to enable you the opportunity to explore. We do this by carefully considering the scope and that the project would still make a valuable contribution even if it did not prove itself this time. This safety net is also part of why we suggest the use of the Design Science Research Methodology, as this enables you space to reflect on your results even if you do not achieve what you set out to.
 Involvement with the companies
 Supervision
@@ -45,6 +44,7 @@ This can be written at any point in the thesis, but will be the last thing to be
 * What are the next steps?
 
 ## Introduction
+Identification of an important problem
 This provides the narrative / story. It also scopes the study.
 The segments below act as a framework, you might not follow them precisely but they should help you in the early days. They provide a logic for the introduction.
 Problem: What is the main (big) problem you are trying to address? Urbanisation, - more people and more large cities, interact with lots of cities – reuse of existing cities.. decarbonisation – natural disasters – places that are easy to build tend to be places that flood etc… or just better buildings…
