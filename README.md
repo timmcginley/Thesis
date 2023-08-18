@@ -1,5 +1,6 @@
 # Thesis
 
+So you are thinking aout starting your thesis! This is great news, you are about to start on a fantastic journey of discovery.
 
 The thesis is different from projects you may have done in your studies previously. Most importantly this is not:
 * a chronological report on what you have did in the 5 months
@@ -7,16 +8,9 @@ The thesis is different from projects you may have done in your studies previous
 
 Most importantly you are ultimately trying to close a gap in knowledge, this can be a very small gap.
 
-Firstly, we know if you have made it through to Thesis in our Architectural Engineering Programme at DTU Construct you are a great student, who wants to mkae a contribution to the future probably by solving some problem wiht some ingenius engineering approach. You may therefore think that the aim of the thesis is to document what you ‘did’ in a chronological report with conclusions. This may also be a form that you are familiar with from other assignments. 
-
-*That is not an MSc thesis.*
-
-A strictly chronological perspective on what you did is not the most efficient way to explain the study, its aims, how it builds on previous work and whether it makes a contribution to the existing body of knowledge. To do this we have to bend time just a little bit, lets have a look below at how we do this.
-
-Firstly, I have a slightly different approach from the standard scientific / engineering approach, which emphasises the methodology of the research more than we might normally do. We may still use a standard engineering / scientific methodology but this way we are open to trying new approaches – this may in itself make a contribution.
-Writing the final report
-
-Most students at DTU use overleaf, but you can use word if you prefer.
+# Practical things
+* Most students at DTU use overleaf, but you can use word if you prefer. If you use overleaf, this can be linked to a github repo, which I think could really exciting possibilities.
+* 
 
 The final date for the report submission date… 
 
@@ -98,3 +92,12 @@ Most firms aren’t actively looking for new tools – prop tools convince them 
 Not just the speed, we can build better buildings… what we want is the culture of open source…
 Learning curve to the more established projects is a big blocker
 The second one is that  
+
+## Joint thesis
+It is possible to write theses with up to 4 students. If you are interested in writing a joint thesis, please fill in the form of the type of thesis you want to write about, and include the student number(s) of the team members.
+
+## External partners
+It is possible to develop a thesis in collaboration with an external partner (i.e. a company, a research institution, an organization). Please, provide us with the name of the external partner(s) and where they are located by filling in the given field in the form.
+
+## Confidentiality
+If the nature of a thesis is confidential (i.e. technical information about the technology/product that might be used by competitors, or sensitive business information), the student can choose to make his or her thesis public or not. This can be done by the student when the final thesis is submitted to DTU Inside (the intranet of DTU).
