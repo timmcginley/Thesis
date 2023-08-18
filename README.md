@@ -2,11 +2,13 @@
 
 So you are thinking about starting your thesis! This is great news, you are about to start on a fantastic journey of discovery.
 
-The thesis is different from projects you may have done in your studies previously. Most importantly this is not:
+Your thesis will be different from projects you have done previously in your studies. Most importantly it is not:
 * a chronological report on what you have did in the 5 months
 * or documentation of a tool / method / process that you have built.
 
-Most importantly you are ultimately trying to close a gap in knowledge, this can be a very small gap.
+The aim of the thesis
+
+> you are ultimately trying to close a gap in knowledge, this can be a *very* small gap.
 
 ## Practical things
 * Most students at DTU use overleaf, but you can use word if you prefer. If you use overleaf, this can be linked to a github repo, which I think could really exciting possibilities.
