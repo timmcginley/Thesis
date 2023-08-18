@@ -8,7 +8,7 @@ Your thesis will be different from projects you have done previously in your stu
 
 The aim of the thesis
 
-> you are ultimately trying to close a gap in knowledge, this can be a very small gap.
+> you are ultimately trying to close a gap in knowledge, this can be a *very* small gap.
 
 ## Practical things
 * Most students at DTU use overleaf, but you can use word if you prefer. If you use overleaf, this can be linked to a github repo, which I think could really exciting possibilities.
