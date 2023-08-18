@@ -8,7 +8,7 @@ The thesis is different from projects you may have done in your studies previous
 
 Most importantly you are ultimately trying to close a gap in knowledge, this can be a very small gap.
 
-# Practical things
+## Practical things
 * Most students at DTU use overleaf, but you can use word if you prefer. If you use overleaf, this can be linked to a github repo, which I think could really exciting possibilities.
 * 
 
