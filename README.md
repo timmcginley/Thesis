@@ -1,6 +1,6 @@
 # Thesis
 
-So you are thinking aout starting your thesis! This is great news, you are about to start on a fantastic journey of discovery.
+So you are thinking about starting your thesis! This is great news, you are about to start on a fantastic journey of discovery.
 
 The thesis is different from projects you may have done in your studies previously. Most importantly this is not:
 * a chronological report on what you have did in the 5 months
