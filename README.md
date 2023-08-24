@@ -10,6 +10,10 @@ The aim of the thesis
 
 > you are ultimately trying to close a gap in knowledge, this can be a *very* small gap.
 
+## First steps
+* When to start?
+* Find a supervisor
+
 ## Practical things
 * Most students at DTU use overleaf, but you can use word if you prefer. If you use overleaf, this can be linked to a github repo, which I think could really exciting possibilities.
 * 
